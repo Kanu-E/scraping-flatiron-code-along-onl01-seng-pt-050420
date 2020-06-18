@@ -23,7 +23,7 @@ class Scraper
     self.get_page.css(".post")
   end
   
-  binding.pry 
+   
 end
 
 
